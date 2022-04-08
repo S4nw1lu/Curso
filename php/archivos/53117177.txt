@@ -1,0 +1,6 @@
+Nombres: Lucy Stella
+Apellidos: Molina Romero
+Email: tulymolina@gmail.com
+Rol: Mamá
+Fecha de Nacimiento: 1985-04-09
+Fecha de Ingreso: 2022-03-28

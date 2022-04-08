@@ -1,0 +1,6 @@
+Nombres: Wilson Andres
+Apellidos: Silva Ferreira
+Email: wasf26@gmail.com
+Rol: Papá
+Fecha de Nacimiento: 1982-09-26
+Fecha de Ingreso: 2022-03-28
